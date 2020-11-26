@@ -1,5 +1,8 @@
 package org.csuf.cpsc411.hw2_VincentLam
-
+// Vincent Lam
+// CPSC 411-01 Homework 2
+// Fall 2020
+// Prof. Shen
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
